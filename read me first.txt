@@ -1,0 +1,5 @@
+Hello!
+
+This app developed by Igal Achourov using .Net Core Web API V6.0.
+To use this app replace the ConnectionString with the proper one and run.
+

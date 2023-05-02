@@ -1,0 +1,34 @@
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.DataAccess\bin\Debug\net6.0\ZigitTest.DataAccess.deps.json
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.DataAccess\bin\Debug\net6.0\ZigitTest.DataAccess.dll
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.DataAccess\bin\Debug\net6.0\ZigitTest.DataAccess.pdb
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.DataAccess\bin\Debug\net6.0\ZigitTest.Core.dll
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.DataAccess\bin\Debug\net6.0\ZigitTest.Core.pdb
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.DataAccess\obj\Debug\net6.0\ZigitTest.DataAccess.csproj.AssemblyReference.cache
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.DataAccess\obj\Debug\net6.0\ZigitTest.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.DataAccess\obj\Debug\net6.0\ZigitTest.DataAccess.AssemblyInfoInputs.cache
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.DataAccess\obj\Debug\net6.0\ZigitTest.DataAccess.AssemblyInfo.cs
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.DataAccess\obj\Debug\net6.0\ZigitTest.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.DataAccess\obj\Debug\net6.0\ZigitTest.DataAccess.csproj.CopyComplete
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.DataAccess\obj\Debug\net6.0\ZigitTest.DataAccess.dll
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.DataAccess\obj\Debug\net6.0\refint\ZigitTest.DataAccess.dll
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.DataAccess\obj\Debug\net6.0\ZigitTest.DataAccess.pdb
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.DataAccess\obj\Debug\net6.0\ref\ZigitTest.DataAccess.dll
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.DataAccess\bin\Debug\net6.0\ZigitTest.DataAccess.runtimeconfig.json
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.DataAccess\obj\Debug\net6.0\ZigitTest.DataAccess.genruntimeconfig.cache
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.DataAccess\bin\Debug\net6.0\ZigitTest.DataAccess.deps.json
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.DataAccess\bin\Debug\net6.0\ZigitTest.DataAccess.runtimeconfig.json
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.DataAccess\bin\Debug\net6.0\ZigitTest.DataAccess.dll
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.DataAccess\bin\Debug\net6.0\ZigitTest.DataAccess.pdb
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.DataAccess\obj\Debug\net6.0\ZigitTest.DataAccess.csproj.AssemblyReference.cache
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.DataAccess\obj\Debug\net6.0\ZigitTest.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.DataAccess\obj\Debug\net6.0\ZigitTest.DataAccess.AssemblyInfoInputs.cache
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.DataAccess\obj\Debug\net6.0\ZigitTest.DataAccess.AssemblyInfo.cs
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.DataAccess\obj\Debug\net6.0\ZigitTest.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.DataAccess\obj\Debug\net6.0\ZigitTest.DataAccess.csproj.CopyComplete
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.DataAccess\obj\Debug\net6.0\ZigitTest.DataAccess.dll
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.DataAccess\obj\Debug\net6.0\refint\ZigitTest.DataAccess.dll
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.DataAccess\obj\Debug\net6.0\ZigitTest.DataAccess.pdb
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.DataAccess\obj\Debug\net6.0\ZigitTest.DataAccess.genruntimeconfig.cache
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.DataAccess\obj\Debug\net6.0\ref\ZigitTest.DataAccess.dll
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.DataAccess\bin\Debug\net6.0\ZigitTest.Entity.dll
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.DataAccess\bin\Debug\net6.0\ZigitTest.Entity.pdb

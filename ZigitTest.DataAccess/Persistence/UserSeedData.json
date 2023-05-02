@@ -1,0 +1,273 @@
+[
+  {
+    "Username": "test1",
+    "FullName": "test1FullName",
+    "Team": "Developers",
+    "Created": "2017-06-23",
+    "Avatar": "https://randomuser.me/api/portraits/women/85.jpg",
+    "JoinedAt": "2017-06-23",
+    "Projects": [
+      {
+        "id": "5fb9953bd98214b6df37174d",
+        "name": "Backend Project",
+        "score": 88,
+        "durationInDays": 35,
+        "bugsCount": 74,
+        "madeDadeline": false
+      },
+      {
+        "id": "5fb9953b9937c7bcd60c4bc5",
+        "name": "Design Project",
+        "score": 68,
+        "durationInDays": 55,
+        "bugsCount": 52,
+        "madeDadeline": false
+      },
+      {
+        "id": "5fb9953b899dd436c5604120",
+        "name": "Backend Project",
+        "score": 90,
+        "durationInDays": 36,
+        "bugsCount": 34,
+        "madeDadeline": true
+      },
+      {
+        "id": "5fb9953b97e765bfc40b0e64",
+        "name": "Frontend Project",
+        "score": 99,
+        "durationInDays": 51,
+        "bugsCount": 32,
+        "madeDadeline": true
+      },
+      {
+        "id": "5fb9953b9cbcef501edc3282",
+        "name": "Design Project",
+        "score": 97,
+        "durationInDays": 68,
+        "bugsCount": 42,
+        "madeDadeline": true
+      },
+      {
+        "id": "5fb9953b85de8839957a723b",
+        "name": "Backend Project",
+        "score": 97,
+        "durationInDays": 66,
+        "bugsCount": 64,
+        "madeDadeline": false
+      },
+      {
+        "id": "5fb9953be21cbfc5e2384c0a",
+        "name": "Fullstack Project",
+        "score": 79,
+        "durationInDays": 61,
+        "bugsCount": 63,
+        "madeDadeline": true
+      },
+      {
+        "id": "5fb9953bee0839034e07a1e9",
+        "name": "Backend Project",
+        "score": 66,
+        "durationInDays": 62,
+        "bugsCount": 50,
+        "madeDadeline": true
+      },
+      {
+        "id": "5fb9953b7de958c3143892e8",
+        "name": "Design Project",
+        "score": 95,
+        "durationInDays": 59,
+        "bugsCount": 65,
+        "madeDadeline": false
+      },
+      {
+        "id": "5fb9953b474255e654c12d01",
+        "name": "Backend Project",
+        "score": 79,
+        "durationInDays": 44,
+        "bugsCount": 72,
+        "madeDadeline": false
+      }
+    ]
+  },
+  {
+    "Username": "test2",
+    "FullName": "test2FullName",
+    "Team": "Developers",
+    "Created": "2017-06-23",
+    "Avatar": "https://randomuser.me/api/portraits/men/76.jpg",
+    "JoinedAt": "2017-06-23",
+    "Projects": [
+      {
+        "id": "5fb9953be4392e46fe106df2",
+        "name": "Backend Project",
+        "score": 93,
+        "durationInDays": 66,
+        "bugsCount": 72,
+        "madeDadeline": true
+      },
+      {
+        "id": "5fb9953b532d8c6fbb42889c",
+        "name": "Design Project",
+        "score": 100,
+        "durationInDays": 39,
+        "bugsCount": 47,
+        "madeDadeline": true
+      },
+      {
+        "id": "5fb9953b173fda06ff170d73",
+        "name": "Design Project",
+        "score": 87,
+        "durationInDays": 68,
+        "bugsCount": 56,
+        "madeDadeline": false
+      },
+      {
+        "id": "5fb9953bd75d55e63433cc43",
+        "name": "Fullstack Project",
+        "score": 76,
+        "durationInDays": 36,
+        "bugsCount": 73,
+        "madeDadeline": true
+      },
+      {
+        "id": "5fb9953bc9bba25271a8044f",
+        "name": "Frontend Project",
+        "score": 91,
+        "durationInDays": 37,
+        "bugsCount": 38,
+        "madeDadeline": true
+      },
+      {
+        "id": "5fb9953be15e723483509f48",
+        "name": "Backend Project",
+        "score": 84,
+        "durationInDays": 37,
+        "bugsCount": 57,
+        "madeDadeline": false
+      },
+      {
+        "id": "5fb9953b86effeab4fadae71",
+        "name": "Fullstack Project",
+        "score": 71,
+        "durationInDays": 66,
+        "bugsCount": 33,
+        "madeDadeline": false
+      },
+      {
+        "id": "5fb9953b134a2003f8af1fd1",
+        "name": "Backend Project",
+        "score": 82,
+        "durationInDays": 38,
+        "bugsCount": 47,
+        "madeDadeline": true
+      },
+      {
+        "id": "5fb9953b7f8236b00b4af7d2",
+        "name": "Backend Project",
+        "score": 98,
+        "durationInDays": 38,
+        "bugsCount": 75,
+        "madeDadeline": true
+      },
+      {
+        "id": "5fb9953bb533633938e96aea",
+        "name": "Frontend Project",
+        "score": 90,
+        "durationInDays": 60,
+        "bugsCount": 40,
+        "madeDadeline": false
+      }
+    ]
+  },
+  {
+    "Username": "test3",
+    "FullName": "test3FullName",
+    "Team": "Developers",
+    "Created": "2017-06-23",
+    "Avatar": "https://randomuser.me/api/portraits/women/59.jpg",
+    "JoinedAt": "2017-06-23",
+    "Projects": [
+      {
+        "id": "5fb9953b729e99d31e89abe1",
+        "name": "Fullstack Project",
+        "score": 77,
+        "durationInDays": 67,
+        "bugsCount": 74,
+        "madeDadeline": true
+      },
+      {
+        "id": "5fb9953b59b3068480a70fa9",
+        "name": "Backend Project",
+        "score": 99,
+        "durationInDays": 37,
+        "bugsCount": 65,
+        "madeDadeline": true
+      },
+      {
+        "id": "5fb9953bd1e1af04d1f33851",
+        "name": "Fullstack Project",
+        "score": 73,
+        "durationInDays": 58,
+        "bugsCount": 62,
+        "madeDadeline": false
+      },
+      {
+        "id": "5fb9953b9ea8b81780d1f3a8",
+        "name": "Design Project",
+        "score": 88,
+        "durationInDays": 72,
+        "bugsCount": 52,
+        "madeDadeline": false
+      },
+      {
+        "id": "5fb9953b116fcfab7b78d350",
+        "name": "Backend Project",
+        "score": 87,
+        "durationInDays": 41,
+        "bugsCount": 64,
+        "madeDadeline": false
+      },
+      {
+        "id": "5fb9953b760c9a63057d2aa2",
+        "name": "Design Project",
+        "score": 65,
+        "durationInDays": 60,
+        "bugsCount": 59,
+        "madeDadeline": true
+      },
+      {
+        "id": "5fb9953bdd09075f059e527c",
+        "name": "Backend Project",
+        "score": 91,
+        "durationInDays": 53,
+        "bugsCount": 50,
+        "madeDadeline": false
+      },
+      {
+        "id": "5fb9953b9123837114b6e5d7",
+        "name": "Fullstack Project",
+        "score": 94,
+        "durationInDays": 65,
+        "bugsCount": 75,
+        "madeDadeline": true
+      },
+      {
+        "id": "5fb9953ba9d2809ab8b0309a",
+        "name": "Frontend Project",
+        "score": 75,
+        "durationInDays": 38,
+        "bugsCount": 43,
+        "madeDadeline": true
+      },
+      {
+        "id": "5fb9953bc5829fab66d03568",
+        "name": "Design Project",
+        "score": 89,
+        "durationInDays": 53,
+        "bugsCount": 57,
+        "madeDadeline": false
+      }
+    ]
+  }
+
+]

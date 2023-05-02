@@ -1,0 +1,29 @@
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.Core\bin\Debug\net6.0\ZigitTest.Core.deps.json
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.Core\bin\Debug\net6.0\ZigitTest.Core.dll
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.Core\bin\Debug\net6.0\ZigitTest.Core.pdb
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.Core\obj\Debug\net6.0\ZigitTest.Core.csproj.AssemblyReference.cache
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.Core\obj\Debug\net6.0\ZigitTest.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.Core\obj\Debug\net6.0\ZigitTest.Core.AssemblyInfoInputs.cache
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.Core\obj\Debug\net6.0\ZigitTest.Core.AssemblyInfo.cs
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.Core\obj\Debug\net6.0\ZigitTest.Core.csproj.CoreCompileInputs.cache
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.Core\obj\Debug\net6.0\ZigitTest.Core.dll
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.Core\obj\Debug\net6.0\refint\ZigitTest.Core.dll
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.Core\obj\Debug\net6.0\ZigitTest.Core.pdb
+C:\Users\igala\Desktop\ZigitTest.API\ZigitTest.Core\obj\Debug\net6.0\ref\ZigitTest.Core.dll
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.Core\obj\Debug\net6.0\ZigitTest.Core.csproj.AssemblyReference.cache
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.Core\obj\Debug\net6.0\ZigitTest.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.Core\obj\Debug\net6.0\ZigitTest.Core.AssemblyInfoInputs.cache
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.Core\obj\Debug\net6.0\ZigitTest.Core.AssemblyInfo.cs
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.Core\obj\Debug\net6.0\ZigitTest.Core.csproj.CoreCompileInputs.cache
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.Core\obj\Debug\net6.0\ZigitTest.Core.dll
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.Core\obj\Debug\net6.0\refint\ZigitTest.Core.dll
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.Core\obj\Debug\net6.0\ZigitTest.Core.pdb
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.Core\bin\Debug\net6.0\ZigitTest.Core.deps.json
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.Core\bin\Debug\net6.0\ZigitTest.Core.dll
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.Core\bin\Debug\net6.0\ZigitTest.Core.pdb
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.Core\bin\Debug\net6.0\ZigitTest.DataAccess.dll
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.Core\bin\Debug\net6.0\ZigitTest.DataAccess.pdb
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.Core\obj\Debug\net6.0\ZigitTest.Core.csproj.CopyComplete
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.Core\obj\Debug\net6.0\ref\ZigitTest.Core.dll
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.Core\bin\Debug\net6.0\ZigitTest.Entity.dll
+C:\Users\igala\Desktop\ZigitTest.API - Copy (2)\ZigitTest.Core\bin\Debug\net6.0\ZigitTest.Entity.pdb
